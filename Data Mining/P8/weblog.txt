@@ -1,0 +1,10 @@
+/home
+/login
+/products
+/cart
+/payment
+/home
+/products
+/cart
+/home
+/login
